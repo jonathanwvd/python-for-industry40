@@ -1,4 +1,4 @@
-# Python-for-Industry-4.0
+# Python for Industry 4.0
 
 Learn the basics of Python programming for Industry 4.0 with hands-on exercises and projects.
 
